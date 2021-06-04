@@ -16,3 +16,4 @@ const CONFIG = {
     btnAccept: 'Dạaaaaaaa <333',
     messLink: 'https://m.me/thanhdat01012021'
 }
+Các  bác  sĩ  cho  biết  thêm 
