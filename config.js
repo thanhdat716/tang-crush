@@ -1,19 +1,18 @@
 const CONFIG = {
     introTitle: 'Babe à!',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
+    introDesc: `Có người hỏi: 
+    Thích 1 ngườii là như thế nào?
+    Tớ liền hình dung ra cậu🤭🙆‍♂️ `,
     btnIntro: 'hihi',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Vẫn cứ là thích anh <33',
-    btnNo: 'Không, Anh trai à :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
+    title: 'Tình yêu như là phép nhiệm màu cho nên đừng ngạii nếu uống say. Em à!🥰❤  ',
+    desc: 'Em có muốn cùng anh tạo nên 1 mối tình khôngg ?😊 ',
+    btnYes: 'iuu Đạt quá à 🙆‍♂️🙆‍♂️',
+    btnNo: 'Cho cụng không thèmm 😗',
+    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh zạyy 😘',
     btnReply: 'Gửi cho anh <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    reply: 'Tôi yêuu cậu không cần lý do🙆‍♂️❤ ',
+    mess: 'Yêu em nhiều 😘😘',
+    messDesc: 'Xíu qua dẫn đii chơi nhaa🤭',
+    btnAccept: 'Dạaaaaaaa <333',
+    messLink: 'https://m.me/thanhdat01012021'
 }
